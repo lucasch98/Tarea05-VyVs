@@ -7,7 +7,7 @@ public class FuncionesTest {
 
     @Test
     public void esPrimoTest(){
-        boolean resultado = f.esPrimo(13);
+        boolean resultado = f.esPrimo(12);
         assertTrue(resultado);
     }
 
